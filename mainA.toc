@@ -1,0 +1,29 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{\numberline {1}Анализ предметной области}{5}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Общественный транспорт и его роль в жизни города}{5}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Преимущества и недостатки общественного транспорта -- Автобусы}{6}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Преимущества и недостатки общественного транспорта -- Трамваи}{7}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Преимущества и недостатки общественного транспорта -- Метро}{7}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Преимущества и недостатки общественного транспорта -- Поезда}{7}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Преимущества и недостатки общественного транспорта -- Троллейбусы}{7}{subsection.1.6}%
+\contentsline {subsection}{\numberline {1.7}Преимущества и недостатки общественного транспорта -- Маршрутные такси}{7}{subsection.1.7}%
+\contentsline {subsection}{\numberline {1.8}Преимущества и недостатки общественного транспорта -- Такси}{7}{subsection.1.8}%
+\contentsline {subsection}{\numberline {1.9}Аддитивные технологии, их классификация}{7}{subsection.1.9}%
+\contentsline {section}{\numberline {2}Техническое задание}{8}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Основание для разработки}{8}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Цель и назначение разработки}{8}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Требования пользователя к интерфейсу web-сайта}{8}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Моделирование вариантов использования}{9}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Требования к оформлению документации}{10}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Технический проект}{11}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Общая характеристика организации решения задачи}{11}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Обоснование выбора технологии проектирования}{11}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Описание используемых технологий и языков программирования}{11}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Язык программирования PHP}{11}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Язык программирования JavaScript}{12}{subsubsection.3.2.3}%
+\contentsline {paragraph}{\numberline {3.2.3.1}Достоинства языка JavaScript}{12}{paragraph.3.2.3.1}%
+\contentsline {paragraph}{\numberline {3.2.3.2}Недостатки языка Javascript}{12}{paragraph.3.2.3.2}%
+\contentsline {subsection}{\numberline {3.3}Диаграмма компонентов и схема обмена данными между файлами компонента}{13}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Диаграмма размещения}{15}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Содержание информационных блоков. Основные сущности}{16}{subsection.3.5}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{18}{table.6}%
