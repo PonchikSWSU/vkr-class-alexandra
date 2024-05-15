@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.4.22)  30 APR 2024 14:44
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.4.22)  15 MAY 2024 22:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -528,7 +528,20 @@ File: lstlang1.sty 2023/02/27 1.9 listings language file
 (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
 ))
-(mainA.aux)
+(mainA.aux
+
+LaTeX Warning: Label `templ:image' multiply defined.
+
+
+LaTeX Warning: Label `templ:image' multiply defined.
+
+
+LaTeX Warning: Label `templ:image' multiply defined.
+
+
+LaTeX Warning: Label `templ:image' multiply defined.
+
+)
 \openout1 = `mainA.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
@@ -542,8 +555,7 @@ LaTeX Font Info:    ... okay on input line 31.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
 1.
-
-(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
+ (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 31.
@@ -644,164 +656,159 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@lpc=\write5
 \openout5 = `mainA.lpc'.
 
- (Обозначения.tex
-[3]) (Анализ.tex [4]
-Underfull \hbox (badness 1303) in paragraph at lines 6--7
-[]\TU/TimesNewRoman(0)/m/n/14.4 Автобусы – один из самых распространенных видов
- городского
- []
-
-[5]
+ (Анализ.tex [3]
+[4]
 Underfull \hbox (badness 1888) in paragraph at lines 17--17
 []\TU/TimesNewRoman(0)/b/n/14.4 1.2 Преимущества и недостатки общественного тра
 нспорта –
  []
 
-
-Underfull \hbox (badness 1888) in paragraph at lines 29--29
+[5] [6]
+Underfull \hbox (badness 1888) in paragraph at lines 49--49
 []\TU/TimesNewRoman(0)/b/n/14.4 1.3 Преимущества и недостатки общественного тра
 нспорта –
  []
 
-
-Underfull \hbox (badness 1888) in paragraph at lines 32--32
+[7] [8]
+Underfull \hbox (badness 1888) in paragraph at lines 75--75
 []\TU/TimesNewRoman(0)/b/n/14.4 1.4 Преимущества и недостатки общественного тра
 нспорта –
  []
 
-
-Underfull \hbox (badness 1888) in paragraph at lines 35--35
+[9] [10]
+Underfull \hbox (badness 1888) in paragraph at lines 99--99
 []\TU/TimesNewRoman(0)/b/n/14.4 1.5 Преимущества и недостатки общественного тра
 нспорта –
  []
 
+[11]
+Underfull \hbox (badness 1038) in paragraph at lines 118--120
+[]\TU/TimesNewRoman(0)/m/n/14.4 Роль поездов как вида общественного транспорта 
+в жизни города
+ []
 
-Underfull \hbox (badness 1888) in paragraph at lines 38--38
+[12]
+Underfull \hbox (badness 1888) in paragraph at lines 127--127
 []\TU/TimesNewRoman(0)/b/n/14.4 1.6 Преимущества и недостатки общественного тра
 нспорта –
  []
 
+[13]
+Underfull \hbox (badness 1616) in paragraph at lines 140--141
+[]\TU/TimesNewRoman(0)/m/n/14.4 Зависимость от энергосистемы. Работа троллейбус
+ов зависит от
+ []
 
-Underfull \hbox (badness 1888) in paragraph at lines 41--41
+
+Underfull \hbox (badness 1888) in paragraph at lines 147--147
 []\TU/TimesNewRoman(0)/b/n/14.4 1.7 Преимущества и недостатки общественного тра
 нспорта –
  []
 
+[14] [15]
+Underfull \hbox (badness 1371) in paragraph at lines 166--167
+[]\TU/TimesNewRoman(0)/m/n/14.4 Маршрутное такси играет важную роль в системе о
+бщественного
+ []
 
-Underfull \hbox (badness 1888) in paragraph at lines 44--44
+
+Underfull \hbox (badness 1888) in paragraph at lines 168--168
 []\TU/TimesNewRoman(0)/b/n/14.4 1.8 Преимущества и недостатки общественного тра
 нспорта –
  []
 
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 53--54
-[]\TU/TimesNewRoman(0)/m/n/14.4 Стереолитография. Стереолитографические принтер
-ы используют
+[16]) (ТехЗадание.tex [17] [18] [19]
+File: images/Регистрация.png Graphic file (type bmp)
+<images/Регистрация.png>
+ [20]
+File: images/Авторизация.png Graphic file (type bmp)
+<images/Авторизация.png>
+File: images/Новостная лента.png Graphic file (type bmp)
+<images/Новостная лента.png>
+ [21]
+File: images/Форма обращения.png Graphic file (type bmp)
+<images/Форма обращения.png>
+ [22]
+File: images/Диаграмма прецедентов.png Graphic file (type bmp)
+<images/Диаграмма прецедентов.png>
+ [23] [24] [25])
+(ТехПроект.tex [26] [27] [28]
+File: images/Архитектура программной системы.png Graphic file (type bmp)
+<images/Архитектура программной системы.png>
+ [29] [30]
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+[]\TU/TimesNewRoman(0)/m/n/14.4 Ограниченная кроссплатформенность. Хотя в после
+дние годы
  []
 
-) (ТехЗадание.tex [7]
-File: images/templ.eps Graphic file (type eps)
-<images/templ.eps>
- [8] [9]) (ТехПроект.tex [10]
-Underfull \hbox (badness 10000) in paragraph at lines 12--12
-[]\TU/TimesNewRoman(0)/b/n/14.4 3.2.1 Описание используемых технологий и языков
-
- []
-
-[11]
-Underfull \hbox (badness 1975) in paragraph at lines 42--42
-[]\TU/TimesNewRoman(0)/b/n/14.4 3.3 Диаграмма компонентов и схема обмена данным
-и между
- []
-
-[12]
-File: images/comp.eps Graphic file (type eps)
-<images/comp.eps>
-File: images/data.eps Graphic file (type eps)
-<images/data.eps>
- [13]
-Underfull \hbox (badness 10000) in paragraph at lines 64--65
-[]\TU/TimesNewRoman(0)/m/n/14.4 В сценарии файла component.php посредством мето
-да
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--65
-\TU/TimesNewRoman(0)/m/n/14.4 IncludeComponentTemplate класса CBitrixComponent 
-происходит вызов
+File: images/Схема данных.png Graphic file (type bmp)
+<images/Схема данных.png>
+[31]
+Underfull \hbox (badness 1014) in paragraph at lines 64--65
+[]\TU/TimesNewRoman(0)/m/n/14.4 Устранение транзитивных зависимостей. Если атри
+буты зависят
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 64--65
-\TU/TimesNewRoman(0)/m/n/14.4 из шаблонов, в который передается, возможно, изме
-ненный в сценарии
+Underfull \hbox (badness 7832) in paragraph at lines 70--72
+[]\TU/TimesNewRoman(0)/m/n/14.4 Микросервисы играют ключевую роль в разрабатыва
+емом веб-
+ []
+
+[32]
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+[]\TU/TimesNewRoman(0)/m/n/14.4 Преимущества: Обеспечивает структурированное и 
+оперативное
  []
 
 
-Underfull \hbox (badness 1292) in paragraph at lines 64--65
-\TU/TimesNewRoman(0)/m/n/14.4 component.php массив $arParams и, также, сформиро
-ванный в сценарии
+Underfull \hbox (badness 1360) in paragraph at lines 78--79
+\TU/TimesNewRoman(0)/m/n/14.4 управление обращениями, что способствует быстрому
+ реагированию на
  []
 
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+[]\TU/TimesNewRoman(0)/b/n/14.4 3.3.1 Описание используемых технологий и языков
 
-Underfull \hbox (badness 5985) in paragraph at lines 64--65
-\TU/TimesNewRoman(0)/m/n/14.4 result_modifier.php, который подключается перед п
-одключением файла
  []
 
-[14]
-File: images/place.eps Graphic file (type eps)
-<images/place.eps>
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
-[]|\TU/TimesNewRoman(0)/m/n/14.4 Однонаправленный, по-
+[34]
+Underfull \hbox (badness 2334) in paragraph at lines 123--124
+[]\TU/TimesNewRoman(0)/m/n/14.4 Наконец, JavaScript обладает обширной экосистем
+ой библиотек и
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
-\TU/TimesNewRoman(0)/m/n/14.4 лудуплексный: данные
+[35]
+Underfull \hbox (badness 2035) in paragraph at lines 135--136
+[]\TU/TimesNewRoman(0)/m/n/14.4 Во-первых, HTML является основным строительным 
+блоком веб-
  []
 
+[36]) (СписокИсточников.tex [37])
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
-[]|\TU/TimesNewRoman(0)/m/n/14.4 Бинарные и текстовые
- []
+Package caption Warning: Unused \captionsetup[table] on input line 32.
+See the caption package documentation for explanation.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
-[]|\TU/TimesNewRoman(0)/m/n/14.4 Встроенный механизм
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
-\TU/TimesNewRoman(0)/m/n/14.4 идентификаторов собы-
- []
-
-
-Underfull \hbox (badness 2065) in paragraph at lines 96--96
-\TU/TimesNewRoman(0)/m/n/14.4 тификация события реа-
- []
-
-[15]
-Underfull \hbox (badness 2753) in paragraph at lines 124--124
-[]|\TU/TimesNewRoman(0)/m/n/14.4 Количество просмотров новости зареги-
- []
-
-[16] [17]) (СписокИсточников.tex [18] [19]) [20] (mainA.aux)
+[38] (mainA.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `mainA.out' has not changed.
-(rerunfilecheck)             Checksum: 88426F8C35A32672548782691C9A1C69;10952.
+(rerunfilecheck)             Checksum: DF9307D115D4E8AD9E8BFD4D4860CC2A;12449.
  ) 
 Here is how much of TeX's memory you used:
- 15670 strings out of 409616
- 301591 string characters out of 5773992
- 1944191 words of memory out of 5000000
- 37557 multiletter control sequences out of 15000+600000
+ 15614 strings out of 409616
+ 302573 string characters out of 5773992
+ 1935191 words of memory out of 5000000
+ 37504 multiletter control sequences out of 15000+600000
  559574 words of font info for 69 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,14n,110p,1112b,541s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,11n,110p,827b,481s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on mainA.pdf (20 pages).
+Output written on mainA.pdf (38 pages).
