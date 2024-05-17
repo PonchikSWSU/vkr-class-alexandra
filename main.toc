@@ -23,12 +23,27 @@
 \contentsline {subsection}{\numberline {3.1}Общие сведения о программной системе}{27}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}Проектирование архитектуры программной системы}{28}{subsection.3.2}%
 \contentsline {subsubsection}{\numberline {3.2.1}Выбор архитектурного стиля и паттернов проектирования}{28}{subsubsection.3.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.2}Структура базы данных}{30}{subsubsection.3.2.2}%
-\contentsline {subsubsection}{\numberline {3.2.3}Описание микросервисов}{33}{subsubsection.3.2.3}%
-\contentsline {subsection}{\numberline {3.3}Обоснование выбора технологии проектирования}{34}{subsection.3.3}%
-\contentsline {subsubsection}{\numberline {3.3.1}Описание используемых технологий и языков программирования}{34}{subsubsection.3.3.1}%
-\contentsline {subsubsection}{\numberline {3.3.2}Язык программирования JavaScript}{35}{subsubsection.3.3.2}%
-\contentsline {subsubsection}{\numberline {3.3.3}Язык программирования C\#}{35}{subsubsection.3.3.3}%
-\contentsline {subsubsection}{\numberline {3.3.4}HTML}{36}{subsubsection.3.3.4}%
-\contentsline {subsubsection}{\numberline {3.3.5}React}{37}{subsubsection.3.3.5}%
-\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{37}{subsubsection.3.3.5}%
+\contentsline {subsubsection}{\numberline {3.2.2}Описание REST API микросервисов}{30}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Структура базы данных}{33}{subsubsection.3.2.3}%
+\contentsline {paragraph}{\numberline {3.2.3.1}Схема данных}{34}{paragraph.3.2.3.1}%
+\contentsline {paragraph}{\numberline {3.2.3.2}Описание схемы данных}{34}{paragraph.3.2.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.4}Описание микросервисов}{41}{subsubsection.3.2.4}%
+\contentsline {subsubsection}{\numberline {3.2.5}Архитектура сервисов}{43}{subsubsection.3.2.5}%
+\contentsline {paragraph}{\numberline {3.2.5.1}Класс «CategoriesOfDriverSLicense»}{43}{paragraph.3.2.5.1}%
+\contentsline {paragraph}{\numberline {3.2.5.2}Класс «Driver»}{43}{paragraph.3.2.5.2}%
+\contentsline {paragraph}{\numberline {3.2.5.3}Класс «DriverStatus»}{44}{paragraph.3.2.5.3}%
+\contentsline {paragraph}{\numberline {3.2.5.4}Класс «EmployeeStatus»}{45}{paragraph.3.2.5.4}%
+\contentsline {paragraph}{\numberline {3.2.5.5}Класс «Flight»}{45}{paragraph.3.2.5.5}%
+\contentsline {paragraph}{\numberline {3.2.5.6}Класс «FlightsStatus»}{46}{paragraph.3.2.5.6}%
+\contentsline {paragraph}{\numberline {3.2.5.7}Класс «Passenger»}{46}{paragraph.3.2.5.7}%
+\contentsline {paragraph}{\numberline {3.2.5.8}Класс «Rating»}{47}{paragraph.3.2.5.8}%
+\contentsline {paragraph}{\numberline {3.2.5.9}Класс «RouteStop»}{48}{paragraph.3.2.5.9}%
+\contentsline {paragraph}{\numberline {3.2.5.10}Класс «Staff»}{49}{paragraph.3.2.5.10}%
+\contentsline {paragraph}{\numberline {3.2.5.11}Класс «Stop»}{50}{paragraph.3.2.5.11}%
+\contentsline {paragraph}{\numberline {3.2.5.12}Класс «UrbanRoute»}{50}{paragraph.3.2.5.12}%
+\contentsline {paragraph}{\numberline {3.2.5.13}Класс «User»}{51}{paragraph.3.2.5.13}%
+\contentsline {paragraph}{\numberline {3.2.5.14}Класс «Vehicle»}{52}{paragraph.3.2.5.14}%
+\contentsline {paragraph}{\numberline {3.2.5.15}Класс «EmployeeId»}{53}{paragraph.3.2.5.15}%
+\contentsline {paragraph}{\numberline {3.2.5.16}Класс «DriverDto»}{54}{paragraph.3.2.5.16}%
+\contentsline {paragraph}{\numberline {3.2.5.17}Класс «PassengerDto»}{55}{paragraph.3.2.5.17}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{56}{table.37}%
