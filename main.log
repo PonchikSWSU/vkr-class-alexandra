@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.4.22)  15 MAY 2024 22:37
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.4.22)  17 MAY 2024 08:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./mainA.tex
-(mainA.tex
+**./main.tex
+(main.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (setup.tex (vkr.cls
@@ -528,10 +528,7 @@ File: lstlang1.sty 2023/02/27 1.9 listings language file
 (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
 ))
-(mainA.aux
-
-LaTeX Warning: Label `templ:image' multiply defined.
-
+(main.aux
 
 LaTeX Warning: Label `templ:image' multiply defined.
 
@@ -542,7 +539,7 @@ LaTeX Warning: Label `templ:image' multiply defined.
 LaTeX Warning: Label `templ:image' multiply defined.
 
 )
-\openout1 = `mainA.aux'.
+\openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
 LaTeX Font Info:    ... okay on input line 31.
@@ -636,9 +633,9 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 LaTeX Info: Redefining \th on input line 31.
 Package hyperref Info: Link coloring OFF on input line 31.
 
-(mainA.out) (mainA.out)
+(main.out) (main.out)
 \@outlinefile=\write3
-\openout3 = `mainA.out'.
+\openout3 = `main.out'.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: listings package is loaded.
@@ -648,16 +645,15 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 33.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 33.
- [1] (mainA.toc [2])
+ [1] (main.toc [2])
 \tf@toc=\write4
-\openout4 = `mainA.toc'.
+\openout4 = `main.toc'.
 
- (mainA.lpc)
+ (main.lpc)
 \tf@lpc=\write5
-\openout5 = `mainA.lpc'.
+\openout5 = `main.lpc'.
 
- (Анализ.tex [3]
-[4]
+ (Анализ.tex [3] [4]
 Underfull \hbox (badness 1888) in paragraph at lines 17--17
 []\TU/TimesNewRoman(0)/b/n/14.4 1.2 Преимущества и недостатки общественного тра
 нспорта –
@@ -735,86 +731,1189 @@ File: images/Диаграмма прецедентов.png Graphic file (type bm
 (ТехПроект.tex [26] [27] [28]
 File: images/Архитектура программной системы.png Graphic file (type bmp)
 <images/Архитектура программной системы.png>
- [29] [30]
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
-[]\TU/TimesNewRoman(0)/m/n/14.4 Ограниченная кроссплатформенность. Хотя в после
-дние годы
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Входные пара-
  []
 
+
+Underfull \hbox (badness 2096) in paragraph at lines 49--49
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Выходные пара-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Входные пара-
+ []
+
+
+Underfull \hbox (badness 2096) in paragraph at lines 49--49
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Выходные пара-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+[]|\TU/TimesNewRoman(0)/m/n/14.4 GET /api/Driver
+ []
+
+
+Underfull \hbox (badness 8170) in paragraph at lines 49--49
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Получение дан-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+[]|\TU/TimesNewRoman(0)/m/n/14.4 PUT /api/Driver
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+[]|\TU/TimesNewRoman(0)/m/n/14.4 UserId: integer,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+[]|\TU/TimesNewRoman(0)/m/n/14.4 DELETE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\TU/TimesNewRoman(0)/m/n/14.4 /api/Driver
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Удаление дан-
+ []
+
+[29]
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Входные пара-
+ []
+
+
+Underfull \hbox (badness 2096) in paragraph at lines 63--63
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Выходные пара-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Входные пара-
+ []
+
+
+Underfull \hbox (badness 2096) in paragraph at lines 63--63
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Выходные пара-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+[]|\TU/TimesNewRoman(0)/m/n/14.4 GET
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+\TU/TimesNewRoman(0)/m/n/14.4 /api/Passenger
+ []
+
+
+Underfull \hbox (badness 8170) in paragraph at lines 63--63
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Получение дан-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+[]|\TU/TimesNewRoman(0)/m/n/14.4 PUT
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+\TU/TimesNewRoman(0)/m/n/14.4 /api/Passenger
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+[]|\TU/TimesNewRoman(0)/m/n/14.4 UserId: integer,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+\TU/TimesNewRoman(0)/m/n/14.4 PassengerUp:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+[]|\TU/TimesNewRoman(0)/m/n/14.4 DELETE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+\TU/TimesNewRoman(0)/m/n/14.4 /api/Passenger
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Удаление дан-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Входные пара-
+ []
+
+
+Underfull \hbox (badness 2096) in paragraph at lines 80--80
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Выходные пара-
+ []
+
+
+LaTeX Warning: Reference `prod:table34♦' on page 30 undefined on input line 80.
+
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Входные пара-
+ []
+
+
+Underfull \hbox (badness 2096) in paragraph at lines 80--80
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Выходные пара-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]|\TU/TimesNewRoman(0)/m/n/14.4 POST /api/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+\TU/TimesNewRoman(0)/m/n/14.4 Employee
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Добавление но-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]|\TU/TimesNewRoman(0)/m/n/14.4 GET /api/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+\TU/TimesNewRoman(0)/m/n/14.4 Employee
+ []
+
+
+Underfull \hbox (badness 8170) in paragraph at lines 80--80
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Получение дан-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]|\TU/TimesNewRoman(0)/m/n/14.4 PUT /api/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+\TU/TimesNewRoman(0)/m/n/14.4 Employee
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]|\TU/TimesNewRoman(0)/m/n/14.4 UserId: integer,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+\TU/TimesNewRoman(0)/m/n/14.4 EmployeeUp:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]|\TU/TimesNewRoman(0)/m/n/14.4 DELETE /api/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+\TU/TimesNewRoman(0)/m/n/14.4 Employee
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Удаление дан-
+ []
+
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Входные пара-
+ []
+
+
+Underfull \hbox (badness 2096) in paragraph at lines 109--109
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Выходные пара-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Входные пара-
+ []
+
+
+Underfull \hbox (badness 2096) in paragraph at lines 109--109
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Выходные пара-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|\TU/TimesNewRoman(0)/m/n/14.4 GET /api/News
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+\TU/TimesNewRoman(0)/m/n/14.4 Generator
+ []
+
+
+Underfull \hbox (badness 6792) in paragraph at lines 109--109
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Получение всех
+ []
+
+
+Underfull \hbox (badness 3108) in paragraph at lines 109--109
+\TU/TimesNewRoman(0)/m/n/14.4 записей из таб-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Ratings:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|\TU/TimesNewRoman(0)/m/n/14.4 GET /api/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+\TU/TimesNewRoman(0)/m/n/14.4 Employee
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+\TU/TimesNewRoman(0)/m/n/14.4 GET /api/News
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+\TU/TimesNewRoman(0)/m/n/14.4 Generator
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Получение кон-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+\TU/TimesNewRoman(0)/m/n/14.4 кретной записи
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|\TU/TimesNewRoman(0)/m/n/14.4 GET /api/News
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+\TU/TimesNewRoman(0)/m/n/14.4 Generator
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+\TU/TimesNewRoman(0)/m/n/14.4 Controller
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|\TU/TimesNewRoman(0)/m/n/14.4 PublishedEntry:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Ratings:
+ []
+
+
+Underfull \hbox (badness 7740) in paragraph at lines 109--109
+[]|\TU/TimesNewRoman(0)/m/n/14.4 POST /api/News
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+\TU/TimesNewRoman(0)/m/n/14.4 Generator
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Добавление
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|\TU/TimesNewRoman(0)/m/n/14.4 PUT /api/News
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+\TU/TimesNewRoman(0)/m/n/14.4 Generator
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Обновление
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|\TU/TimesNewRoman(0)/m/n/14.4 DELETE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+\TU/TimesNewRoman(0)/m/n/14.4 /api/News
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+\TU/TimesNewRoman(0)/m/n/14.4 Generator
+ []
+
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Входные пара-
+ []
+
+
+Underfull \hbox (badness 2096) in paragraph at lines 126--126
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Выходные пара-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Входные пара-
+ []
+
+
+Underfull \hbox (badness 2096) in paragraph at lines 126--126
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Выходные пара-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+[]|\TU/TimesNewRoman(0)/m/n/14.4 POST /api/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+\TU/TimesNewRoman(0)/m/n/14.4 Autorisation
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+\TU/TimesNewRoman(0)/m/n/14.4 Controller/
+ []
+
+
+Underfull \hbox (badness 2486) in paragraph at lines 126--126
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Регистрация но-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+[]|\TU/TimesNewRoman(0)/m/n/14.4 POST /api/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+\TU/TimesNewRoman(0)/m/n/14.4 Autorisation
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Авторизация
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Login: string,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+[]|\TU/TimesNewRoman(0)/m/n/14.4 UserId: integer,
+ []
+
+
+Overfull \hbox (3.11827pt too wide) in paragraph at lines 126--126
+\TU/TimesNewRoman(0)/m/n/14.4 RoleInTheSystem:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Входные пара-
+ []
+
+
+Underfull \hbox (badness 2096) in paragraph at lines 150--150
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Выходные пара-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Входные пара-
+ []
+
+
+Underfull \hbox (badness 2096) in paragraph at lines 150--150
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Выходные пара-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]|\TU/TimesNewRoman(0)/m/n/14.4 POST /api/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+\TU/TimesNewRoman(0)/m/n/14.4 UrbanRoute
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Добавление но-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]|\TU/TimesNewRoman(0)/m/n/14.4 UrbanRoute:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]|\TU/TimesNewRoman(0)/m/n/14.4 GET /api/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+\TU/TimesNewRoman(0)/m/n/14.4 UrbanRoute
+ []
+
+
+Underfull \hbox (badness 1635) in paragraph at lines 150--150
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Получение нуж-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]|\TU/TimesNewRoman(0)/m/n/14.4 UrbanRoute:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]|\TU/TimesNewRoman(0)/m/n/14.4 GET /api/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+\TU/TimesNewRoman(0)/m/n/14.4 UrbanRoute
+ []
+
+
+Underfull \hbox (badness 6792) in paragraph at lines 150--150
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Получение всех
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]|\TU/TimesNewRoman(0)/m/n/14.4 UrbanRoutes:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]|\TU/TimesNewRoman(0)/m/n/14.4 PUT /api/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+\TU/TimesNewRoman(0)/m/n/14.4 UrbanRoute
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]|\TU/TimesNewRoman(0)/m/n/14.4 RouteId: integer,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+\TU/TimesNewRoman(0)/m/n/14.4 UrbanRouteUp:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]|\TU/TimesNewRoman(0)/m/n/14.4 UrbanRoute:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]|\TU/TimesNewRoman(0)/m/n/14.4 DELETE /api/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+\TU/TimesNewRoman(0)/m/n/14.4 UrbanRoute
+ []
+
+
+Underfull \hbox (badness 2653) in paragraph at lines 150--150
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Удаление марш-
+ []
+
+[32]
 File: images/Схема данных.png Graphic file (type bmp)
 <images/Схема данных.png>
-[31]
-Underfull \hbox (badness 1014) in paragraph at lines 64--65
-[]\TU/TimesNewRoman(0)/m/n/14.4 Устранение транзитивных зависимостей. Если атри
-буты зависят
- []
-
-
-Underfull \hbox (badness 7832) in paragraph at lines 70--72
+ [33] [34] [35] [36] [37] [38] [39] [40]
+Underfull \hbox (badness 7832) in paragraph at lines 400--402
 []\TU/TimesNewRoman(0)/m/n/14.4 Микросервисы играют ключевую роль в разрабатыва
 емом веб-
  []
 
-[32]
-Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+Underfull \hbox (badness 10000) in paragraph at lines 408--409
 []\TU/TimesNewRoman(0)/m/n/14.4 Преимущества: Обеспечивает структурированное и 
 оперативное
  []
 
 
-Underfull \hbox (badness 1360) in paragraph at lines 78--79
+Underfull \hbox (badness 1360) in paragraph at lines 408--409
 \TU/TimesNewRoman(0)/m/n/14.4 управление обращениями, что способствует быстрому
  реагированию на
  []
 
-[33]
-Underfull \hbox (badness 10000) in paragraph at lines 111--111
-[]\TU/TimesNewRoman(0)/b/n/14.4 3.3.1 Описание используемых технологий и языков
-
+[41] [42]
+Underfull \hbox (badness 10000) in paragraph at lines 453--453
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Уникальный
  []
 
-[34]
-Underfull \hbox (badness 2334) in paragraph at lines 123--124
-[]\TU/TimesNewRoman(0)/m/n/14.4 Наконец, JavaScript обладает обширной экосистем
-ой библиотек и
+
+Underfull \hbox (badness 10000) in paragraph at lines 453--453
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Идентификатор
  []
 
-[35]
-Underfull \hbox (badness 2035) in paragraph at lines 135--136
-[]\TU/TimesNewRoman(0)/m/n/14.4 Во-первых, HTML является основным строительным 
-блоком веб-
+
+Underfull \hbox (badness 8113) in paragraph at lines 453--453
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Дата получения
  []
 
-[36]) (СписокИсточников.tex [37])
 
-Package caption Warning: Unused \captionsetup[table] on input line 32.
-See the caption package documentation for explanation.
+Underfull \hbox (badness 10000) in paragraph at lines 453--453
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Дата оконча-
+ []
 
-[38] (mainA.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 453--453
+\TU/TimesNewRoman(0)/m/n/14.4 ния действия
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 474--474
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Идентификатор
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 474--474
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Путь к файлу с
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 474--474
+[]|\TU/TimesNewRoman(0)/m/n/14.4 DateOfIsueOfThe
+ []
+
+
+Overfull \hbox (5.51591pt too wide) in paragraph at lines 474--474
+\TU/TimesNewRoman(0)/m/n/14.4 FirstDrivrSLicense| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 474--474
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Электронная
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 474--474
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Идентификатор
+ []
+
+[43]
+Underfull \hbox (badness 10000) in paragraph at lines 491--491
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Уникальный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 491--491
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Идентификатор
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--508
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Уникальный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--508
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Идентификатор
+ []
+
+[44]
+Underfull \hbox (badness 10000) in paragraph at lines 528--528
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Уникальный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 528--528
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Идентификатор
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 528--528
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Идентификатор
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 528--528
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Идентификатор
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 528--528
+[]|\TU/TimesNewRoman(0)/m/n/14.4 ActualTimeTo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 528--528
+[]|\TU/TimesNewRoman(0)/m/n/14.4 ActualTimeOf
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 528--528
+\TU/TimesNewRoman(0)/m/n/14.4 DepartureFrom
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 528--528
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Время схода с
+ []
+
+[45]
+Underfull \hbox (badness 10000) in paragraph at lines 545--545
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Уникальный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--545
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Идентификатор
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 562--562
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Уникальный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 562--562
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Электронная
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 562--562
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Идентификатор
+ []
+
+[46]
+Underfull \hbox (badness 10000) in paragraph at lines 591--591
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Уникальный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 591--591
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Идентификатор
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 591--591
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Идентификатор
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 591--591
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Responsible
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 591--591
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Идентификатор
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 591--591
+\TU/TimesNewRoman(0)/m/n/14.4 ответственного
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 591--591
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Passenger
+ []
+
+
+Underfull \hbox (badness 2671) in paragraph at lines 591--591
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Обращение пас-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 591--591
+[]|\TU/TimesNewRoman(0)/m/n/14.4 CommentOn
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 591--591
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Дополнительные
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 591--591
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Путь к файлу с
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 591--591
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Путь к файлу с
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 591--591
+\TU/TimesNewRoman(0)/m/n/14.4 видеоматериа-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 591--591
+[]|\TU/TimesNewRoman(0)/m/n/14.4 DateOf
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 591--591
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Дата отправки
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 591--591
+\TU/TimesNewRoman(0)/m/n/14.4 ковано обраще-
+ []
+
+
+Overfull \hbox (3.1042pt too wide) in paragraph at lines 591--591
+[]|\TU/TimesNewRoman(0)/m/n/14.4 DateOfPublication| 
+ []
+
+[47]
+Underfull \hbox (badness 10000) in paragraph at lines 608--608
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Уникальный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 608--608
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Идентификатор
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 608--608
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Идентификатор
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 608--608
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Порядок следо-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 608--608
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Является ли
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 608--608
+\TU/TimesNewRoman(0)/m/n/14.4 остановка на-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 608--608
+\TU/TimesNewRoman(0)/m/n/14.4 чальной точкой
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 608--608
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Является ли
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 608--608
+\TU/TimesNewRoman(0)/m/n/14.4 остановка ко-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 608--608
+\TU/TimesNewRoman(0)/m/n/14.4 нечной точкой
+ []
+
+[48]
+Underfull \hbox (badness 10000) in paragraph at lines 626--626
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Уникальный
+ []
+
+
+Overfull \hbox (0.72765pt too wide) in paragraph at lines 626--626
+[]|\TU/TimesNewRoman(0)/m/n/14.4 EmployeePosition| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 626--626
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Занимаемая
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 626--626
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Электронная
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 626--626
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Идентификатор
+ []
+
+[49]
+Underfull \hbox (badness 10000) in paragraph at lines 643--643
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Уникальный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 643--643
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Название оста-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 663--663
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Уникальный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 663--663
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Наименование
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 663--663
+[]|\TU/TimesNewRoman(0)/m/n/14.4 TimeToGet
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 663--663
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Время начала
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 663--663
+\TU/TimesNewRoman(0)/m/n/14.4 обслуживания
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 663--663
+[]|\TU/TimesNewRoman(0)/m/n/14.4 TimeOfDeparture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 663--663
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Время оконча-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 663--663
+\TU/TimesNewRoman(0)/m/n/14.4 ния обслужива-
+ []
+
+
+Overfull \hbox (2.29561pt too wide) in paragraph at lines 663--663
+[]|\TU/TimesNewRoman(0)/m/n/14.4 MovementInterval| 
+ []
+
+[50]
+Underfull \hbox (badness 5050) in paragraph at lines 667--668
+[]\TU/TimesNewRoman(0)/m/n/14.4 «User» - класс, содержащий в себе данные пользо
+вателей веб-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 681--681
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Уникальный
+ []
+
+
+Underfull \hbox (badness 1331) in paragraph at lines 681--681
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Логин пользова-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 681--681
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Пароль пользо-
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 681--681
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Подтвержден ли
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 681--681
+\TU/TimesNewRoman(0)/m/n/14.4 аккаунт пользо-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 681--681
+[]|\TU/TimesNewRoman(0)/m/n/14.4 ActiveUser
+ []
+
+[51]
+Underfull \hbox (badness 10000) in paragraph at lines 706--706
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Уникальный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 706--706
+[]|\TU/TimesNewRoman(0)/m/n/14.4 YearOf
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 706--706
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Год производ-
+ []
+
+
+Overfull \hbox (1.74718pt too wide) in paragraph at lines 706--706
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Государственный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 706--706
+\TU/TimesNewRoman(0)/m/n/14.4 регистрацион-
+ []
+
+
+Underfull \hbox (badness 4792) in paragraph at lines 706--706
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Бортовой номер
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 706--706
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Мощность
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 706--706
+\TU/TimesNewRoman(0)/m/n/14.4 двигателя в
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 706--706
+\TU/TimesNewRoman(0)/m/n/14.4 лошадиных
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 706--706
+[]|\TU/TimesNewRoman(0)/m/n/14.4 PurposeOfThe
+ []
+
+
+Overfull \hbox (3.89873pt too wide) in paragraph at lines 706--706
+[]|\TU/TimesNewRoman(0)/m/n/14.4 PassengerCapacity| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 706--706
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Вместимость
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 706--706
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Путь к файлу с
+ []
+
+[52]
+Underfull \hbox (badness 10000) in paragraph at lines 731--731
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Уникальный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 731--731
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Employee
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 731--731
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Занимаемая
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 731--731
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Электронная
+ []
+
+
+Underfull \hbox (badness 1331) in paragraph at lines 731--731
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Логин пользова-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 731--731
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Пароль пользо-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 731--731
+[]|\TU/TimesNewRoman(0)/m/n/14.4 RoleIn
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 731--731
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Подтвержден ли
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 731--731
+\TU/TimesNewRoman(0)/m/n/14.4 аккаунт пользо-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 731--731
+[]|\TU/TimesNewRoman(0)/m/n/14.4 ActiveUser
+ []
+
+[53]
+Underfull \hbox (badness 10000) in paragraph at lines 754--754
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Идентификатор
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 754--754
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Путь к файлу с
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 754--754
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Электронная
+ []
+
+
+Underfull \hbox (badness 1331) in paragraph at lines 754--754
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Логин пользова-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 754--754
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Пароль пользо-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 754--754
+[]|\TU/TimesNewRoman(0)/m/n/14.4 RoleIn
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 754--754
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Подтвержден ли
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 754--754
+\TU/TimesNewRoman(0)/m/n/14.4 аккаунт пользо-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 754--754
+[]|\TU/TimesNewRoman(0)/m/n/14.4 ActiveUser
+ []
+
+[54]
+Underfull \hbox (badness 10000) in paragraph at lines 777--777
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Уникальный
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 777--777
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Электронная
+ []
+
+
+Underfull \hbox (badness 1331) in paragraph at lines 777--777
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Логин пользова-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 777--777
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Пароль пользо-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 777--777
+[]|\TU/TimesNewRoman(0)/m/n/14.4 RoleIn
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 777--777
+[]|\TU/TimesNewRoman(0)/m/n/14.4 Подтвержден ли
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 777--777
+\TU/TimesNewRoman(0)/m/n/14.4 аккаунт пользо-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 777--777
+[]|\TU/TimesNewRoman(0)/m/n/14.4 ActiveUser
+ []
+
+[55]) (СписокИсточников.tex [56]) [57] (main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 
 
+LaTeX Warning: There were undefined references.
+
+
 LaTeX Warning: There were multiply-defined labels.
 
-
-Package rerunfilecheck Warning: File `mainA.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `mainA.out':
-(rerunfilecheck)             Before: 795A9D40D6D117FF25DDC9509154CD6B;12482
-(rerunfilecheck)             After:  DF9307D115D4E8AD9E8BFD4D4860CC2A;12449.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 669661B7C6927B2AFB259891F443929B;14806.
  ) 
 Here is how much of TeX's memory you used:
- 15607 strings out of 409616
- 302526 string characters out of 5773992
- 1935191 words of memory out of 5000000
- 37497 multiletter control sequences out of 15000+600000
+ 15699 strings out of 409616
+ 303565 string characters out of 5773992
+ 1960191 words of memory out of 5000000
+ 37589 multiletter control sequences out of 15000+600000
  559574 words of font info for 69 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 99i,11n,110p,827b,481s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,16n,110p,826b,543s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on mainA.pdf (38 pages).
+Output written on main.pdf (57 pages).
